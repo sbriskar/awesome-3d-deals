@@ -1,0 +1,54 @@
+name: Submit a deal
+description: Share a Black Friday or Cyber Monday offer for 3D creators
+title: "[Deal] Product name"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share one current or announced offer. Makers can submit their own products.
+        Please use the official vendor page where shoppers can verify the terms.
+  - type: input
+    id: product
+    attributes:
+      label: Product name
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Blender add-ons
+        - 3D assets
+        - AI 3D tools
+    validations:
+      required: true
+  - type: input
+    id: offer-url
+    attributes:
+      label: Official offer URL
+      description: Use the direct vendor link without affiliate or tracking parameters.
+      placeholder: "https://example.com/black-friday"
+    validations:
+      required: true
+  - type: textarea
+    id: offer
+    attributes:
+      label: Offer and eligibility
+      description: Include the discount or price, coupon if needed, and any plan, customer, or region restrictions. For subscriptions, include the renewal price or terms if the vendor lists them.
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Offer dates
+      description: Include the end date and any time zone the vendor publishes. Enter "Not stated" if no deadline is listed.
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: Tell us your relationship to the vendor, or enter "None".
+    validations:
+      required: true
