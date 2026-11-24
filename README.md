@@ -1,6 +1,6 @@
 <h1 align="center">🎁 Black Friday Deals for 3D Creators</h1>
 
-<p align="center">Blender add-ons, 3D assets, and AI 3D tools · Black Friday and Cyber Monday 2026</p>
+<p align="center">2026 · Blender add-ons, 3D assets, and AI 3D tools</p>
 
 <p align="center">
   <a href="#featured-deal">🧊 ThreeDee</a> ·
@@ -16,9 +16,9 @@
 > [!TIP]
 > **[ThreeDee](https://www.threedee.design/) · 30% off with `BLACK30`**
 >
-> Save on [single 3D models](https://www.threedee.design/products/3d-models/single-3d-models/), [modular 3D packs](https://www.threedee.design/products/3d-models/modular-3d-packs/), both lifetime libraries, and one-time [Nova](https://www.threedee.design/products/ai-3d-generator/) credits. Nova turns a photo or text prompt into a 3D model.
+> Save on [single 3D models](https://www.threedee.design/products/3d-models/single-3d-models/), [modular 3D packs](https://www.threedee.design/products/3d-models/modular-3d-packs/), both lifetime libraries, and one-time [Nova](https://www.threedee.design/products/ai-3d-generator/) credits.
 >
-> **Ends December 2 at 18:00 CET (noon ET).** [See the sale and how to redeem the code](https://www.threedee.design/black-friday/).
+> **Ends December 2 at 18:00 CET (noon ET).** [Shop the sale](https://www.threedee.design/black-friday/).
 
 | Purchase | Black Friday price |
 | --- | ---: |
@@ -38,7 +38,7 @@
 
 ## Superhive deals
 
-**Cyber Sale watchlist.** The [Superhive Cyber Sale](https://support.superhivemarket.com/article/391-superhive-cyber-2026-faq) starts November 27 at 16:00 CET (9:00 a.m. CST) with **35% off participating products**. Check the individual listings once the sale opens to see which bestsellers are included.
+The [Superhive Cyber Sale](https://support.superhivemarket.com/article/391-superhive-cyber-2026-faq) starts November 27 at 16:00 CET (9:00 a.m. CST) with **35% off participating products**. Check each product page when the sale opens.
 
 **Affiliate disclosure.** ThreeDee may earn a commission if you buy through the Superhive links below.
 
@@ -77,6 +77,4 @@
 
 ## Add a deal
 
-[➕ Submit a deal](../../issues/new?template=submit-deal.yml) or open a pull request. Include the vendor’s offer page, what the discount applies to, and when it ends. Makers can submit their own offers for free. [Contribution guide](CONTRIBUTING.md)
-
-Inspired by Tony Dinh’s [Awesome Black Friday & Cyber Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday).
+[Submit a deal](../../issues/new?template=submit-deal.yml) or open a pull request with the vendor’s offer link, discount, and expiry. [Contribution guide](CONTRIBUTING.md)
