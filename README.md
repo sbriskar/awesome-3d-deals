@@ -16,15 +16,15 @@
 > [!TIP]
 > **[ThreeDee](https://www.threedee.design/) · 30% off with `BLACK30`**
 >
-> Save on single 3D models, modular 3D packs, both lifetime libraries, and one-time Nova credits. Nova turns a photo or text prompt into a 3D model.
+> Save on [single 3D models](https://www.threedee.design/products/3d-models/single-3d-models/), [modular 3D packs](https://www.threedee.design/products/3d-models/modular-3d-packs/), both lifetime libraries, and one-time [Nova](https://www.threedee.design/products/ai-3d-generator/) credits. Nova turns a photo or text prompt into a 3D model.
 >
 > **Ends December 2 at 18:00 CET (noon ET).** [See the sale and how to redeem the code](https://www.threedee.design/black-friday/).
 
 | Purchase | Black Friday price |
 | --- | ---: |
-| Lifetime 3D Packs | ~~$490.00~~ **$343.00** |
-| Lifetime Single Models | ~~$799.00~~ **$559.30** |
-| Nova Hobby (3 credits) | ~~$3.00~~ **$2.10** |
+| [Lifetime 3D Packs](https://www.threedee.design/products/3d-models/3d-models-pack/) | ~~$490.00~~ **$343.00** |
+| [Lifetime Single Models](https://www.threedee.design/products/3d-models/single-3d-models-pack/) | ~~$799.00~~ **$559.30** |
+| [Nova Hobby (3 credits)](https://app.threedee.design/credits) | ~~$3.00~~ **$2.10** |
 
 *ThreeDee maintains this list. Vendor offers were checked on November 24, 2026.*
 
