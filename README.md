@@ -38,17 +38,25 @@
 
 ## Superhive deals
 
-Three picks from Superhive’s **Popular Items On Sale This Week**.
+**Cyber Sale watchlist.** The [Superhive Cyber Sale](https://support.superhivemarket.com/article/391-superhive-cyber-2026-faq) starts November 27 at 16:00 CET (9:00 a.m. CST) with **35% off participating products**. Check the individual listings once the sale opens to see which bestsellers are included.
 
 **Affiliate disclosure.** ThreeDee may earn a commission if you buy through the Superhive links below.
 
-| Deal | Offer and terms | Ends |
-| --- | --- | --- |
-| [Eden](https://superhivemarket.com/products/eden-ultimate-charcters-studio-plus-wrap?ref=4183) | **50% off** select editions of Xane Studios’ Blender character creator. The $59.99 edition is **$30**. | Check listing |
-| [Adaptive Auto Skinning](https://superhivemarket.com/products/adaptive-auto-skinning?ref=4183) | **15% off** Jessy Leite’s automated skin weights tool for Blender. **$29.75–$38.25**, depending on the edition. | Check listing |
-| [Materialify Pro](https://superhivemarket.com/products/materialify-pro?ref=4183) | **90% off** the paid editions of Can of Textures’ Blender material library. **$3–$7**. | Check listing |
+### Top Selling Items this Week
 
-[Browse all Superhive deals](https://superhivemarket.com/deals?ref=4183)
+| Bestseller | What it does |
+| --- | --- |
+| [Auto-Rig Pro](https://superhivemarket.com/products/auto-rig-pro?ref=4183) | Character rigging, animation retargeting, and export. |
+| [Human Generator Ultimate](https://superhivemarket.com/products/humgen3d?ref=4183) | Create and customize realistic human characters in Blender. |
+| [Botaniq](https://superhivemarket.com/products/botaniq-trees?ref=4183) | Drop trees, grass, and other vegetation into a scene. |
+| [Cleave](https://superhivemarket.com/products/cleave?ref=4183) | Split 3D prints into parts and add connectors for assembly. |
+| [Adaptive Auto Skinning](https://superhivemarket.com/products/adaptive-auto-skinning?ref=4183) | Generate skin weights for a character rig. Currently **15% off**. |
+| [RetopoFlow 4](https://superhivemarket.com/products/retopoflow?ref=4183) | Build clean topology over high-resolution meshes. |
+| [FLIP Fluids](https://superhivemarket.com/products/flipfluids?ref=4183) | Simulate liquids in Blender. |
+| [Faceit](https://superhivemarket.com/products/faceit?ref=4183) | Set up facial rigs and work with facial motion capture. |
+| [K-Cycles](https://superhivemarket.com/products/k-cycles?ref=4183) | Cycles rendering tools for lighting and post-processing. |
+
+[See Superhive’s marketplace](https://superhivemarket.com/?ref=4183) · [Browse all Superhive deals](https://superhivemarket.com/deals?ref=4183)
 
 ## 3D assets
 
