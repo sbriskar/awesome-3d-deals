@@ -70,6 +70,7 @@
 
 | Tool | Offer and terms | Ends |
 | --- | --- | --- |
+| [ThreeDee Nova](https://www.threedee.design/products/ai-3d-generator/) | Turn photos or text prompts into 3D models. **30% off one-time credit packs** with `BLACK30`. Hobby (3 credits) is **$2.10**, down from $3.00. [Buy Nova credits](https://app.threedee.design/credits). | Dec 2, 18:00 CET |
 | [Hyper3D Rodin](https://hyper3d.ai/legal/black-friday-2026-offer-terms) | **At least 50% off the first term** of eligible Creator yearly or Business subscriptions. One direct purchase per account. Renews at regular price after the initial term and any bonus time. | Dec 8, 23:59 UTC |
 | [Image to 3D AI](https://imageto3dai.org/black-friday) | **Double credits at the same price** for the first month of a new monthly plan or first year of a new annual plan. Credit packs also double for subscribers during the sale. | Dec 1 |
 | [Wandy3D](https://wandy3d.com/promo) | **$4.99 for the first month of PRO**, then $9.99 monthly. Applies to accounts that have never held a paid plan. Choose PRO monthly on the web. | Dec 1, 23:59 CET |
